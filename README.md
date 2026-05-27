@@ -59,7 +59,7 @@ Desarrollar un sistema de consola en Python que permita gestionar de manera efic
 - Brinda mayor seguridad mediante validaciones y control administrativo.
 - Ofrece una interfaz sencilla y fácil de utilizar.
 
-- # Especificación de Requisitos
+# Especificación de Requisitos
 
 ## Requisitos Funcionales
 
