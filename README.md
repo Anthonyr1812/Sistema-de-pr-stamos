@@ -18,29 +18,20 @@ El sistema permite:
 - Exportar información a CSV
 - Administrar inventario
 
----
 
-## Integrantes
-
-- Anthony Rentería
-- Nombre compañero 2
-- Nombre compañero 3
-
----
-
-## Información académica
+## Integrantes e información académica
 
 ### Anthony Rentería
 
 - Programa: Ingeniería Industrial
 - Habilidades:
-  - Python
-  - Lógica de programación
-  - Bases de datos
+  - Excel
+  - Lógica
+  - Idiomas
 
 - Fortalezas:
   - Creatividad
-  - Liderazgo
+  - Gestión
   - Resolución de problemas
 
 ---
