@@ -6,9 +6,9 @@
 
 ## Descripción
 
-Software desarrollado en Python para gestionar préstamos de artículos utilizando archivos planos.
+El siguiente software permite gestionar préstamos de artículos utilizando archivos planos.
 
-El sistema permite:
+Cuenta con opciones como:
 
 - Registrar usuarios
 - Registrar artículos
