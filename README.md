@@ -16,12 +16,24 @@
   - Creatividad
   - Gestión
   - Resolución de problemas
+ 
+### Jamal Pimienta Duarte
 
+- Programa: Ingeniería industrial
+- Habilidades:
+  - Análisis de problemas
+  - Buena socialización
+ 
+- Fortalezas:
+- - Resolución de conflictos
+  - Toma de decisiones
+  - Empatía
+  - 
 ## Reporte de visión
 
 ### Descripción general del software
 
-El Sistema de Gestión de Préstamos MJ es un software desarrollado en Python que permite administrar el préstamo de artículos mediante una interfaz de consola interactiva y amigable para el usuario. El sistema utiliza archivos planos para almacenar la información de usuarios, artículos, préstamos, devoluciones y ventas, permitiendo llevar un control organizado y eficiente de todos los procesos relacionados con el inventario y los préstamos.
+Este es un software desarrollado en Python que permite administrar el préstamo de artículos mediante una interfaz de consola interactiva y amigable para el usuario. El sistema utiliza archivos planos para almacenar la información de usuarios, artículos, préstamos, devoluciones y ventas, permitiendo llevar un control organizado y eficiente de todos los procesos relacionados con el inventario y los préstamos.
 
 El software fue diseñado para automatizar tareas que normalmente se realizan de manera manual, reduciendo errores y mejorando el control de los artículos prestados. Además, permite generar certificados de devolución, facturas automáticas por incumplimiento y exportar la información almacenada a archivos CSV para facilitar el análisis y la gestión administrativa.
 
