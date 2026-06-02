@@ -1,0 +1,54 @@
+ACTA DE ENTENDIMIENTO
+
+Universidad de Antioquia.
+Ingeniería industrial.
+Algoritmia y programación.
+Cindy Natally Estrada.
+2026-1.
+
+La presente acta de entendimiento tiene como propósito establecer los objetivos y expectativas relacionadas con el desarrollo de un sistema de información destinado a la gestión de préstamos de artículos con las características necesarias para suplir las necesidades de “MJPRESTA”.
+
+Objetivo general.
+Crear un programa de consola visualmente amigable al usuario, en donde permita gestionar el préstamo de artículos, gestionando mediante archivos planos la información, para posteriormente exportar los resultados a un CSV usando Python.
+
+Objetivos específicos.
+-	Registrar al usuario con nombre, apellido, documento de identificación, correo electrónico y tiempo de préstamo. 
+-	Registrar el artículo a prestar, el cual debe estar registrado y con una nomenclatura correcta.
+-	Registrar préstamo a usuario previamente registrado. 
+-	Registrar y certificar devolución.
+-	Generar venta a los usuarios que no cumplan con el tiempo de devolución.
+-	Consultar artículos con más de 30 días prestados.
+-	Consultar estado general de préstamos.
+-	Permitir acceder al espacio de administrador únicamente a quien cuente con los datos de ingreso de administración. 
+-	Definir la licencia para registrar el software.
+-	Realizar entrega en repositorio de GitHub.
+-	Sustentar el software en la semana 16 del semestre 2026-1.
+
+Restricciones.
+-	El nombre y apellido no debe permitir menos de 3 caracteres y tampoco debe permitir números.
+-	El documento debe tener de 3 a 15 caracteres y solo debe permitir números.
+-	Debe tener una validación de correo electrónico, que tenga una “@” y termine con “.” y “com”.
+-	El tiempo de préstamo se define por la hora en la que se crea el usuario y solo se puede elegir entre 4 opciones; 5 días, 10 días, 15 días y 30 días.
+-	Cada artículo debe estar categorizado con nombre, teniendo en cuenta que el nombre no puede tener menos de 3 caracteres y es posible que tenga números.
+-	Cada artículo debe estar categorizado como videojuego, libro, de música y video, herramientas, dinero, misceláneo o varios.
+-	Se debe registrar el precio de compra del artículo.
+-	Cada artículo debe tener un ID único, el ID debe ser una combinación entre letras y números y se debe asociar el ID con la categoría en la que entró el artículo.
+-	Se debe utilizar lógica difusa (0, 1) para indicar el estado en el que está el artículo a prestar.
+-	El programa solo debe permitir préstamos a personas registradas, de lo contrario debe mostrar un mensaje informando la no existencia del usuario e informar a MJ que registre al usuario nuevo.
+-	MJ debe poder registrar los objetos actuales en inventario y seleccionar por código o ID el artículo a ser prestado.
+-	El programa solo debe permitir registrar devoluciones de préstamos activos, esto se debe validar y si el usuario consultado no tiene préstamos activos, debe mostrar un mensaje en el que se informe que no se puede registrar la devolución. 
+-	Si el usuario está registrado y realiza la devolución en el tiempo establecido, el programa debe generar un certificado de devolución con toda la información del préstamo.
+-	El documento de certificación debe ser generado como texto plano con el nombre del prestador y la fecha de devolución más ID como nombre del documento (Generarlo como PDF para bonificación).
+-	Los artículos con un tiempo de préstamo mayor a 30 días deben ser vendidos a sus prestadores y se debe generar una factura de venta que indique el motivo de venta y se debe cobrar un impuesto del 23% calculando el subtotal o el total de los artículos prestados. 
+-	El recibo de venta se debe generar como texto plano con el nombre del prestador y la fecha de devolución más ID como nombre del documento (Generarlo como PDF para bonificación).
+-	Para el apartado de estado de los préstamos, el programa debe mostrar en orden de cantidad de días los artículos prestados usando estadísticas generales de datos, la información debe ser almacenada en archivos planos para ser consultada y leída por MJ.
+-	El modulo de administración deberá tener reportes sobre el total de préstamos registrados, el total de artículos devueltos, el total de ventas realizadas, el total del pago realizado, la lista de usuarios y el usuario con la mayor y la menor cantidad de préstamos. 
+-	El software debe cumplir bien en aspectos como el rendimiento, la seguridad, la usabilidad, la fiabilidad y la compatibilidad. 
+
+Para conocimiento de todos los integrantes del grupo, se comparte el acta a sus respectivos correos electrónicos y se firma por parte de todos en señal de entendimiento. 
+
+Integrantes:
+-	Anthony Rentería Urrego.
+-	Britania Hernandez Anaya.
+-	Jamal Pimienta Duarte.
+-	Manuela Velásquez Garzón.
