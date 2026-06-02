@@ -6,6 +6,7 @@
 ### Anthony Rentería
 
 - Programa: Ingeniería Industrial
+  
 - Habilidades:
   - Excel
   - Lógica
@@ -19,6 +20,7 @@
 ### Jamal Pimienta Duarte
 
 - Programa: Ingeniería Industrial
+  
 - Habilidades:
   - Análisis de problemas
   - Buena socialización
@@ -29,7 +31,9 @@
   - Empatía
 
 ### Britania Hernandez Anaya
+
 - Programa: Ingeniería Industrial
+  
 - Habilidades:
   - Responsabilidad
   - Organización
@@ -39,6 +43,20 @@
   - Aprendizaje rápido
   - Trabajo en equipo
   - Adaptación al cambio
+
+### Manuela Velásquez Garzón
+
+- Programa: Ingeniería Industrial
+  
+- Habilidades:
+  - Responsabilidad
+  - Disciplina
+
+- Fortalezas:
+  - Trabajo en equipo
+  - Resolución de problemas
+  - Buena comunicación
+  
   
 ## Reporte de visión
 
