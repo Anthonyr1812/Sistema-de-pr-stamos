@@ -1,7 +1,6 @@
 # Sistema de préstamos - MJ
 
-Assets/pnglogo.png
-
+![Logo](Assets/pnglogo.png)
 ## Integrantes e información académica
 
 ### Anthony Rentería
