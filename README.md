@@ -18,16 +18,28 @@
  
 ### Jamal Pimienta Duarte
 
-- Programa: Ingeniería industrial
+- Programa: Ingeniería Industrial
 - Habilidades:
   - Análisis de problemas
   - Buena socialización
  
 - Fortalezas:
-- - Resolución de conflictos
+  - Resolución de conflictos
   - Toma de decisiones
   - Empatía
-  - 
+
+### Britania Hernandez Anaya
+- Programa: Ingeniería Industrial
+- Habilidades:
+  - Responsabilidad
+  - Organización
+  - Compromiso
+
+- Fortalezas:
+  - Aprendizaje rápido
+  - Trabajo en equipo
+  - Adaptación al cambio
+  
 ## Reporte de visión
 
 ### Descripción general del software
