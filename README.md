@@ -225,4 +225,6 @@ Los requisitos no funcionales describen características de calidad y criterios 
 - El sistema debe permitir agregar nuevas funcionalidades en futuras versiones.
 - El sistema debe soportar el crecimiento de usuarios y artículos registrados.
 
+---
+
 ## Diagrama de Gantt
