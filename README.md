@@ -1,6 +1,6 @@
 # Sistema de préstamos - MJ
 
-![Logo](assets/logo.png)
+Assets/pnglogo.png
 
 ## Integrantes e información académica
 
