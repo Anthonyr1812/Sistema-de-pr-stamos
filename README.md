@@ -227,5 +227,4 @@ Los requisitos no funcionales describen características de calidad y criterios 
 
 ---
 ## Diagrama de Gantt
-Assets/pnggantt.png
-
+![Logo](Assets/pnggantt.png)
