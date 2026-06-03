@@ -248,4 +248,5 @@ Los requisitos no funcionales describen características de calidad y criterios 
 ![Logo](Assets/pnggantt.png)
 
 ## Presupuesto
+![Logo](Assets/PresupuestoPNG.png)
 
