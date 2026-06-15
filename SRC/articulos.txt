@@ -1,0 +1,3 @@
+VAR1|Moto|varios|5000000|0
+VAR2|Manilla|varios|1000000|0
+VAR3|Zapatos|varios|100000|0
